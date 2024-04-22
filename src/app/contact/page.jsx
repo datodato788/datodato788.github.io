@@ -10,7 +10,7 @@ function Contact() {
       <div className={styles.content}>
         <div className={styles.imgContainer}>
           <Image
-            src={"/contact.png"}
+            src={"./contact.png"}
             alt="contact image"
             fill={true}
             className={styles.image}
